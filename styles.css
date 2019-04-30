@@ -9,3 +9,23 @@ h2 {
 h3 {
     text-align: center;
 }
+
+.header {
+    padding: 60px;
+    text-align: center;
+    background: #a4e9db;
+    color: white;
+    font-size: 30px;
+  }
+
+
+
+  .cards {
+      text-align: center;
+  }
+
+  .card {
+     display: inline-block;
+     width: 50%;
+     margin: 0 auto;
+    }
